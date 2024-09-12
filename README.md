@@ -16,3 +16,5 @@ Simple bash script which uses openocd with stlinkv2 to program microcontroller.
 
 Hardware
 https://circuitmaker.com/Projects/Details/Mateusz-buleks/Flysky-receiver-8-channels
+
+![alt text](https://github.com/mztulip/stm32f030_uart_example/blob/main/board.jpg?raw=true)

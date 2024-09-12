@@ -13,3 +13,6 @@ make output.bin
 Flasing
 Simple bash script which uses openocd with stlinkv2 to program microcontroller.
 ./flash
+
+Hardware
+https://circuitmaker.com/Projects/Details/Mateusz-buleks/Flysky-receiver-8-channels
